@@ -1,0 +1,18 @@
+.myinput {
+  height: 40px;
+  width: 98%;
+
+  padding-left: 8px;
+  font-size: 18px;
+
+  margin-bottom: 8px;
+}
+
+.mybtn {
+  height: 50px;
+  width: 100%;
+
+  font-size: 24px;
+  color: green;
+  background: yellow;
+}
